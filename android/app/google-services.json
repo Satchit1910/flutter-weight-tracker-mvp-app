@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "882731587533",
+    "project_id": "weight-tracker-mvp-758cf",
+    "storage_bucket": "weight-tracker-mvp-758cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882731587533:android:dd563b75c79dcf87b59684",
+        "android_client_info": {
+          "package_name": "com.satchit1910.weight_tracker_mvp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882731587533-r77v2vsru63uv78di1fbr0i1hcvumi8s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5KKKk3BGQydUBXyk3qavZdul8siIMq9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882731587533-r77v2vsru63uv78di1fbr0i1hcvumi8s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
